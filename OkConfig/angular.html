@@ -1,0 +1,31 @@
+<html ng-app="horseApp">
+<head>
+    <meta charset="utf-8">
+    <title>Horses</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+    <script>
+        horseApp.controller('HorseCtrl', function ($scope, $http){
+            $http.get('http://localhost:8080/restful-services/api/getAllHorses')
+                .then(function(response) {
+                    $scope.horses = data.response;
+                });
+        });
+    </script>
+</head>
+<body ng-controller="HorseCtrl">
+<h2>Horses</h2>
+<table>
+    <tr>
+        <th>Age</th>
+        <th>Name</th>
+        <th>Breeder</th>
+    </tr>
+    <tr ng-repeat="h in horses">
+        <td>{{h.horse.age}}</td>
+        <td>{{h.horse.horesName}}</td>
+        <td>{{h.horse.breeder}}</td>
+    </tr>
+</table>
+</body>
+</html>

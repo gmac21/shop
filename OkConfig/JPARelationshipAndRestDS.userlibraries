@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: antlr:antlr:2.7.6">
+    <archive path="C:/Users/marym/.m2/repository/antlr/antlr/2.7.6/antlr-2.7.6.jar" />
+  </library>
+  <library name="Maven: asm:asm:1.5.3">
+    <archive path="C:/Users/marym/.m2/repository/asm/asm/1.5.3/asm-1.5.3.jar" />
+  </library>
+  <library name="Maven: asm:asm-attrs:1.5.3">
+    <archive path="C:/Users/marym/.m2/repository/asm/asm-attrs/1.5.3/asm-attrs-1.5.3.jar" />
+  </library>
+  <library name="Maven: c3p0:c3p0:0.9.1">
+    <archive path="C:/Users/marym/.m2/repository/c3p0/c3p0/0.9.1/c3p0-0.9.1.jar" />
+  </library>
+  <library name="Maven: cglib:cglib:2.1_3">
+    <archive path="C:/Users/marym/.m2/repository/cglib/cglib/2.1_3/cglib-2.1_3.jar" />
+  </library>
+  <library name="Maven: classworlds:classworlds:1.1-alpha-2">
+    <archive path="C:/Users/marym/.m2/repository/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0">
+    <archive path="C:/Users/marym/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.3">
+    <archive path="C:/Users/marym/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.3/jackson-core-2.8.3.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.3">
+    <archive path="C:/Users/marym/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.3/jackson-databind-2.8.3.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-impl:2.2.4">
+    <archive path="C:/Users/marym/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.4/jaxb-impl-2.2.4.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.stream:sjsxp:1.0.1">
+    <archive path="C:/Users/marym/.m2/repository/com/sun/xml/stream/sjsxp/1.0.1/sjsxp-1.0.1.jar" />
+    <archive path="C:/Users/marym/Downloads/jsoup-1.10.1.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.2">
+    <archive path="C:/Users/marym/.m2/repository/commons-codec/commons-codec/1.2/commons-codec-1.2.jar" />
+  </library>
+  <library name="Maven: commons-collections:commons-collections:3.2.1">
+    <archive path="C:/Users/marym/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar" />
+  </library>
+  <library name="Maven: commons-httpclient:commons-httpclient:3.1">
+    <archive path="C:/Users/marym/.m2/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.0.4">
+    <archive path="C:/Users/marym/.m2/repository/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar" />
+  </library>
+  <library name="Maven: dom4j:dom4j:1.6.1">
+    <archive path="C:/Users/marym/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" />
+  </library>
+  <library name="Maven: freemarker:freemarker:2.3.8">
+    <archive path="C:/Users/marym/.m2/repository/freemarker/freemarker/2.3.8/freemarker-2.3.8.jar" />
+  </library>
+  <library name="Maven: javassist:javassist:3.12.1.GA">
+    <archive path="C:/Users/marym/.m2/repository/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="C:/Users/marym/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+  <library name="Maven: javax.annotation:jsr250-api:1.0">
+    <archive path="C:/Users/marym/.m2/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar" />
+  </library>
+  <library name="Maven: javax.mail:mail:1.4">
+    <archive path="C:/Users/marym/.m2/repository/javax/mail/mail/1.4/mail-1.4.jar" />
+  </library>
+  <library name="Maven: javax.servlet.jsp:jsp-api:2.1">
+    <archive path="C:/Users/marym/.m2/repository/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar" />
+  </library>
+  <library name="Maven: javax.servlet:servlet-api:2.5">
+    <archive path="C:/Users/marym/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" />
+  </library>
+  <library name="Maven: javax.transaction:jta:1.1">
+    <archive path="C:/Users/marym/.m2/repository/javax/transaction/jta/1.1/jta-1.1.jar" />
+  </library>
+  <library name="Maven: javax.validation:validation-api:1.0.0.GA">
+    <archive path="C:/Users/marym/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar" />
+  </library>
+  <library name="Maven: javax.xml.bind:jaxb-api:2.2.3">
+    <archive path="C:/Users/marym/.m2/repository/javax/xml/bind/jaxb-api/2.2.3/jaxb-api-2.2.3.jar" />
+  </library>
+  <library name="Maven: javax.xml.stream:stax-api:1.0">
+    <archive path="C:/Users/marym/.m2/repository/javax/xml/stream/stax-api/1.0/stax-api-1.0.jar" />
+  </library>
+  <library name="Maven: junit:junit:3.8.1">
+    <archive path="C:/Users/marym/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.15">
+    <archive path="C:/Users/marym/.m2/repository/log4j/log4j/1.2.15/log4j-1.2.15.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:6.0.4">
+    <archive path="C:/Users/marym/.m2/repository/mysql/mysql-connector-java/6.0.4/mysql-connector-java-6.0.4.jar" />
+  </library>
+  <library name="Maven: net.jcip:jcip-annotations:1.0">
+    <archive path="C:/Users/marym/.m2/repository/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar" />
+  </library>
+  <library name="Maven: net.sf.ehcache:ehcache:1.2.3">
+    <archive path="C:/Users/marym/.m2/repository/net/sf/ehcache/ehcache/1.2.3/ehcache-1.2.3.jar" />
+  </library>
+  <library name="Maven: org.apache.ant:ant:1.8.1">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/ant/ant/1.8.1/ant-1.8.1.jar" />
+  </library>
+  <library name="Maven: org.apache.ant:ant-launcher:1.8.1">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/ant/ant-launcher/1.8.1/ant-launcher-1.8.1.jar" />
+  </library>
+  <library name="Maven: org.apache.ant:ant-nodeps:1.8.1">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/ant/ant-nodeps/1.8.1/ant-nodeps-1.8.1.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.0.3">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/httpcomponents/httpclient/4.0.3/httpclient-4.0.3.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.0.1">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-artifact:2.0.11">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/maven-artifact/2.0.11/maven-artifact-2.0.11.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-artifact-manager:2.0.11">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/maven-artifact-manager/2.0.11/maven-artifact-manager-2.0.11.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-model:2.0.11">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/maven-model/2.0.11/maven-model-2.0.11.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-plugin-api:2.0.11">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/maven-plugin-api/2.0.11/maven-plugin-api-2.0.11.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-plugin-registry:2.0.11">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/maven-plugin-registry/2.0.11/maven-plugin-registry-2.0.11.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-profile:2.0.11">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/maven-profile/2.0.11/maven-profile-2.0.11.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-project:2.0.11">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/maven-project/2.0.11/maven-project-2.0.11.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-repository-metadata:2.0.11">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/maven-repository-metadata/2.0.11/maven-repository-metadata-2.0.11.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-settings:2.0.11">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/maven-settings/2.0.11/maven-settings-2.0.11.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.plugins:maven-antrun-plugin:1.6">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/plugins/maven-antrun-plugin/1.6/maven-antrun-plugin-1.6.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.wagon:wagon-provider-api:1.0-beta-2">
+    <archive path="C:/Users/marym/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.jar" />
+  </library>
+  <library name="Maven: org.beanshell:bsh:2.0b4">
+    <archive path="C:/Users/marym/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jettison:jettison:1.2">
+    <archive path="C:/Users/marym/.m2/repository/org/codehaus/jettison/jettison/1.2/jettison-1.2.jar" />
+  </library>
+  <library name="Maven: org.codehaus.mojo:hibernate3-maven-plugin:3.0">
+    <archive path="C:/Users/marym/.m2/repository/org/codehaus/mojo/hibernate3-maven-plugin/3.0/hibernate3-maven-plugin-3.0.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-container-default:1.0-alpha-9-stable-1">
+    <archive path="C:/Users/marym/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-interpolation:1.1">
+    <archive path="C:/Users/marym/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.1/plexus-interpolation-1.1.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-utils:2.0.5">
+    <archive path="C:/Users/marym/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar" />
+  </library>
+  <library name="Maven: org.hibernate:ejb3-persistence:1.0.1.GA">
+    <archive path="C:/Users/marym/.m2/repository/org/hibernate/ejb3-persistence/1.0.1.GA/ejb3-persistence-1.0.1.GA.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate:3.2.6.ga">
+    <archive path="C:/Users/marym/.m2/repository/org/hibernate/hibernate/3.2.6.ga/hibernate-3.2.6.ga.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-annotations:3.3.1.GA">
+    <archive path="C:/Users/marym/.m2/repository/org/hibernate/hibernate-annotations/3.3.1.GA/hibernate-annotations-3.3.1.GA.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-commons-annotations:3.0.0.ga">
+    <archive path="C:/Users/marym/.m2/repository/org/hibernate/hibernate-commons-annotations/3.0.0.ga/hibernate-commons-annotations-3.0.0.ga.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-core:3.5.0-Final">
+    <archive path="C:/Users/marym/.m2/repository/org/hibernate/hibernate-core/3.5.0-Final/hibernate-core-3.5.0-Final.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-entitymanager:3.3.2.GA">
+    <archive path="C:/Users/marym/.m2/repository/org/hibernate/hibernate-entitymanager/3.3.2.GA/hibernate-entitymanager-3.3.2.GA.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-tools:3.2.4.GA">
+    <archive path="C:/Users/marym/.m2/repository/org/hibernate/hibernate-tools/3.2.4.GA/hibernate-tools-3.2.4.GA.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-validator:4.2.0.Final">
+    <archive path="C:/Users/marym/.m2/repository/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.jar" />
+  </library>
+  <library name="Maven: org.hibernate:jtidy:r8-20060801">
+    <archive path="C:/Users/marym/.m2/repository/org/hibernate/jtidy/r8-20060801/jtidy-r8-20060801.jar" />
+  </library>
+  <library name="Maven: org.jboss.resteasy:jaxrs-api:2.2.1.GA">
+    <archive path="C:/Users/marym/.m2/repository/org/jboss/resteasy/jaxrs-api/2.2.1.GA/jaxrs-api-2.2.1.GA.jar" />
+  </library>
+  <library name="Maven: org.jboss.resteasy:resteasy-jaxb-provider:2.2.1.GA">
+    <archive path="C:/Users/marym/.m2/repository/org/jboss/resteasy/resteasy-jaxb-provider/2.2.1.GA/resteasy-jaxb-provider-2.2.1.GA.jar" />
+  </library>
+  <library name="Maven: org.jboss.resteasy:resteasy-jaxrs:2.2.1.GA">
+    <archive path="C:/Users/marym/.m2/repository/org/jboss/resteasy/resteasy-jaxrs/2.2.1.GA/resteasy-jaxrs-2.2.1.GA.jar" />
+  </library>
+  <library name="Maven: org.jboss.resteasy:resteasy-jettison-provider:2.2.1.GA">
+    <archive path="C:/Users/marym/.m2/repository/org/jboss/resteasy/resteasy-jettison-provider/2.2.1.GA/resteasy-jettison-provider-2.2.1.GA.jar" />
+  </library>
+  <library name="Maven: org.scannotation:scannotation:1.0.3">
+    <archive path="C:/Users/marym/.m2/repository/org/scannotation/scannotation/1.0.3/scannotation-1.0.3.jar" />
+  </library>
+  <library name="Maven: org.slf4j:jcl-over-slf4j:1.6.1">
+    <archive path="C:/Users/marym/.m2/repository/org/slf4j/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.21">
+    <archive path="C:/Users/marym/.m2/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-nop:1.6.1">
+    <archive path="C:/Users/marym/.m2/repository/org/slf4j/slf4j-nop/1.6.1/slf4j-nop-1.6.1.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-simple:1.7.22">
+    <archive path="C:/Users/marym/.m2/repository/org/slf4j/slf4j-simple/1.7.22/slf4j-simple-1.7.22.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis:1.0.b2">
+    <archive path="C:/Users/marym/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/Users/marym/Downloads/FairPlayJenny.zip" />
+  </library>
+</eclipse-userlibraries>
+
